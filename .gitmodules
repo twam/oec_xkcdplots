@@ -1,0 +1,3 @@
+[submodule "matplotlib-XKCDify"]
+	path = matplotlib-XKCDify
+	url = git://github.com/twam/matplotlib-XKCDify.git
